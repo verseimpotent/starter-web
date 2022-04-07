@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 What the hell is deployement
 
 ## How To Contibute
+
+IDK how jeez
