@@ -16,3 +16,7 @@ What the hell is deployement
 
 IDK how jeez
 Adding even more goddamn text...
+
+### COPYRIGHT
+
+CR 2020 ALEX PEVERETT
