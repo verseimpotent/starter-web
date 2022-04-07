@@ -21,4 +21,4 @@ Please fork this repository and then issue pull requests for review.
 
 ### COPYRIGHT
 
-CR 2020 ALEX PEVERETT
+CR 2020 ALEX PEVERETT All rights reserved
