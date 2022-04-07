@@ -16,6 +16,7 @@ What the hell is deployement
 
 IDK how jeez
 Adding even more goddamn text...
+Please fork this repository and then issue pull requests for review.
 
 ### COPYRIGHT
 
