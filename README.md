@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+Added some stuff to the introduction 
 
 ## Purpose
 
@@ -14,3 +15,4 @@ What the hell is deployement
 ## How To Contibute
 
 IDK how jeez
+Adding even more goddamn text...
